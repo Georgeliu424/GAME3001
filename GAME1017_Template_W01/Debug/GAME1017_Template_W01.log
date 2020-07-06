@@ -1,0 +1,44 @@
+﻿  Button.cpp
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(18,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(19,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  CollisionManager.cpp
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(18,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(19,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  DebugManager.cpp
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(18,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(19,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Engine.cpp
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(18,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(19,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  EventManager.cpp
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(18,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(19,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  FontManager.cpp
+  Label.cpp
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(18,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(19,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Main.cpp
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(18,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(19,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  PathManager.cpp
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(18,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(19,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Player.cpp
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(18,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(19,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  StateManager.cpp
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(18,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(19,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  States.cpp
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(18,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(19,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\States.cpp(153,76): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\States.cpp(154,76): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  TextureManager.cpp
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(18,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\GAME1017_Template_W01\Sprite.h(19,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+States.obj : error LNK2001: 无法解析的外部符号 "public: virtual void __thiscall TitleState::Exit(void)" (?Exit@TitleState@@UAEXXZ)
+States.obj : error LNK2019: 无法解析的外部符号 "public: int & __thiscall Engine::setvol(int)" (?setvol@Engine@@QAEAAHH@Z)，该符号在函数 "public: virtual void __thiscall PlayState::Update(void)" (?Update@PlayState@@UAEXXZ) 中被引用
+States.obj : error LNK2019: 无法解析的外部符号 "public: int & __thiscall Engine::getvol(void)" (?getvol@Engine@@QAEAAHXZ)，该符号在函数 "public: virtual void __thiscall PlayState::Update(void)" (?Update@PlayState@@UAEXXZ) 中被引用
+C:\Users\User\Desktop\Game Production\GAME3001_W05_AStar\Debug\GAME1017_Template_W01.exe : fatal error LNK1120: 3 个无法解析的外部命令
